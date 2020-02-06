@@ -1,0 +1,2 @@
+# CPP-Final-Project
+This is a console application i made using C++ programming language as my final project on C++ class. I developed this application in Linux operating system because we needed to use Linux in labs exc. as the class requirement. In the application there are 3 main classes; dots, lines, squares. The main idea of the project is to combine these classes to form a house shape on the screen. I used Bresenham's Line Algorithm to form lines in the application. 
